@@ -1,4 +1,4 @@
-# naruki_visualization
+# Naruki visualization
 This project was coded using Codex GPT 5.6 Sol.  
 
 A visualization of Naruki's cross ratio moduli space Y of cubic surfaces along with their 27 lines.
